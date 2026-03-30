@@ -1,3 +1,4 @@
+This is a webpage I developed through the IBM full stack developer course on Coursera. The underlying structure of the webpage was already created, and I added modifications and fixed mistakes in the code to create a functional static webpage. 
 # Personal Portfolio Website
 
 A dynamic, single-page portfolio website built for **J. Brandon Fuller** featuring a retro, 8-bit aesthetic. This repository demonstrates core web development concepts by integrating HTML layout, custom CSS design, and Vanilla JavaScript DOM manipulation.
